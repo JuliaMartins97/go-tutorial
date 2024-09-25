@@ -1,0 +1,20 @@
+Created in 2012
+Designed by 3 Google Engineers
+Python like syntax and C++ performance 
+Designed for backend and server development 
+Go needs to be translated to a lower level language to be executed, run in a compiler 
+
+Command to run: go run -name of the file- this command compile and execute the file 
+
+Command to build: go build -name of the file -- > type the name of the file on the terminal - creates an execuatable file  
+
+Variables and Data types: 
+string 
+int 
+*uint = positive numbers*
+float32 float64  
+bool 
+
+name2 := "Joe" - this syntaxe  := is going to guess what the type of the variable is  and assign it. It is equal to var name string = "Joe"
+
+Everytime you declared a variable you have to use it otherwise will pop up an error 
