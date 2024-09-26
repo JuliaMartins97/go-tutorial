@@ -17,4 +17,12 @@ bool
 
 name2 := "Joe" - this syntaxe  := is going to guess what the type of the variable is  and assign it. It is equal to var name string = "Joe"
 
+%v is used like a placeholders
+example: 
+    name := "Joe"
+	age := 27
+	fmt.Printf("Hello %v, you are %v!", name, age)  = Hello Joe, you are 27! 
+
 Everytime you declared a variable you have to use it otherwise will pop up an error 
+
+fmt.Scan(&name) is going to scan the user`s input it`s required to use the "&" 
